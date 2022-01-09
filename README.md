@@ -1,0 +1,2 @@
+# Safe
+#### This is a safe project. It works exactly like a hotel safe. First 6 digits entered wil be your pin. Enter them again to open the safe. The * symbol will close the safe and reset the digits you entered. If you will to reset your password then you should unplug the battery. Feel free to add or suggest any new changes. Finally to run the file just downloaded to your arduino and you will be done.
